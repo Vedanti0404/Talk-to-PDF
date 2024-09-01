@@ -6,7 +6,7 @@ Once you launch the AWS, linux or ubuntu instance follow these commands
 4. $ sudo apt install git curl unzip tar make sudo vim wget -y
 5. (copy paste the same command to verify if everything is installed or not).
 6. (cloning the repo of the project) copy the code link from github,
-7. $ git clone https://github.com/rohitspatil30/MCQ_generator_openAI_and_langchain.git
+7. $ git clone https://github.com/Vedanti0404/Talk-to-PDF.git
 8. $ ls
 9. $ cd MCQ_generator_openAI_and_langchain
 10. $ ls
