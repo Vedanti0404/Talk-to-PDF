@@ -8,7 +8,7 @@ Once you launch the AWS, linux or ubuntu instance follow these commands
 6. (cloning the repo of the project) copy the code link from github,
 7. $ git clone https://github.com/Vedanti0404/Talk-to-PDF.git
 8. $ ls
-9. $ cd MCQ_generator_openAI_and_langchain
+9. $ cd Talk_to_PDF
 10. $ ls
 11. Now here the code won't run because the .env file does not get send to public instances, but we can create a file in the folder in the instance terminal itself.
 12. touch .env (creates a hidden file).
